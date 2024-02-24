@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Project_UAS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Project_UAS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
